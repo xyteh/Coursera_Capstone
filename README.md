@@ -8,4 +8,4 @@ This is a capstone project for IBM Data Science Professional Certificate.
   Scrap data from Wikipedia with BeautifulSoup, plot geospatial data on map with Folium, cluster and segment data with K-means clustering. 
 
 3. Battle of Neighborhoods.ipynb  
-  This project aims to provide recommendation to help travellers to decide where to stay when they travel to Hong Kong. 
+  This project aims to provide recommendations to help travellers to decide where to stay when they travel to Hong Kong. 
