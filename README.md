@@ -1,7 +1,7 @@
 # Coursera_Capstone
 This is a capstone project for IBM Data Science Professional Certificate. 
 
-1. Welcome Page.ipynb 
+1. Welcome Page.ipynb    
   A welcoming page created to get me familar with using Github.
 
 2. Segmenting and Clustering Neighborhoods in Toronto.ipynb  
